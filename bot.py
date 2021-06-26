@@ -4,7 +4,7 @@ from keras.preprocessing import sequence
 from preprocess import cleanComment, Model
 
 import numpy as np
-API_TOKEN = '1870253710:AAHjs4-7WTZ4G9ikt7ATgjuL4aI1vNbh0KI'
+API_TOKEN = '#######'
 
 bot = telebot.TeleBot(API_TOKEN)
 #server = Flask(__name__)
